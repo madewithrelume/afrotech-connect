@@ -5943,14 +5943,14 @@ figcaption {
 
 .popular-courses-slider {
   height: 100%;
-  width: 100vw;
+  width: auto;
   margin-bottom: 56px;
   background-color: transparent;
 }
 
 .popular-courses-mask {
   overflow: hidden;
-  max-width: 567px;
+  max-width: 100%;
 }
 
 .popular-courses-slide {
