@@ -5543,8 +5543,6 @@ figcaption {
 }
 
 .popular-courses-wrapper {
-  margin-right:5px;
-   margin-left:5px;
    text-align: center;
 }
 
@@ -5945,8 +5943,7 @@ figcaption {
 
 .popular-courses-slider {
   height: 100%;
-   margin-right:5px;
-   margin-left:5px;
+  width:100%;
   margin-bottom: 56px;
   background-color: transparent;
 }
